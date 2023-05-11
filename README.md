@@ -1,6 +1,6 @@
 <h1 align="center">Hi :wave:, I am Ullas G M :boy: </h1>
 
-<p>Welcome to my Profile, I am a Android Devloper at Freshworks. Building different mobile products using Native Android(Java/Kotlin).
+<p>Welcome to my Profile, I am a Android Devloper and SDET at Freshworks. Building different mobile products using Native Android(Java/Kotlin).
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ullasgm" alt="ullasgm" /> </p>
 </p>
 
